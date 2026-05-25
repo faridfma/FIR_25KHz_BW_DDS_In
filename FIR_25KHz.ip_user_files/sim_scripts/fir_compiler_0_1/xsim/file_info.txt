@@ -1,0 +1,2 @@
+fir_compiler_0.vhd,vhdl,xil_defaultlib,../../../../../../../Documents/faridFMfolder/MyFIR/fir_compiler_0_1/sim/fir_compiler_0.vhd,incdir="../../../../../../../Documents/faridFMfolder/MyFIR/fir_compiler_0_1/cmodel"
+glbl.v,Verilog,xil_defaultlib,glbl.v
